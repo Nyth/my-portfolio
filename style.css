@@ -83,6 +83,10 @@ nav li {
     background-position: bottom right, left;
 }
 
+.profile-pic {
+    float: right;
+}
+
 main {
     max-width: 1140px;
     margin: 0 auto;
