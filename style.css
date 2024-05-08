@@ -4,7 +4,7 @@
 }
 
 .text-primary {
-    color: #FD6E0A;
+    color: rgb(204, 155, 19);
 }
 
 /* 
@@ -37,6 +37,12 @@
     box-shadow: 0 0 20px #eee;
     border-radius: 5px;
 
+}
+
+.nav-title img {
+    height: 35px;
+    width: 40px;
+    margin-right: 5px;
 }
 
 .btn-primary:hover {
